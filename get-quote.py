@@ -1,5 +1,5 @@
 def bot():
-  print("Keep it logically awesome.")
+  print("I'm Gay")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
