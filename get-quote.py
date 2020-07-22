@@ -1,11 +1,14 @@
-def function():
-  print("This worked!")
+import random
 
-  #f = open("quotes.txt")
-  #quotes = f.readlines()
-  #f.close()
+def main():
+  print("Hello World")
 
-  #print(quotes)
+f = open("quotes.txt")
+quotes = f.readlines()
+f.close()
+last = 13
+rnd = random.randint(0, last)
+print(quotes[rnd])
 
 if __name__== "__main__":
-  function()
+  main()
