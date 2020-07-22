@@ -1,5 +1,5 @@
 def murin():
-  print("I'm Gay")
+  print("I'm Gay 2.0")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
