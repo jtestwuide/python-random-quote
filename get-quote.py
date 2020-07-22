@@ -1,5 +1,5 @@
-def murin():
-  print("I'm Gay 2.0")
+def function():
+  print("Hello World")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
@@ -8,4 +8,4 @@ def murin():
   #print(quotes)
 
 if __name__== "__main__":
-  murin()
+  function()
