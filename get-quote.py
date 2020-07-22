@@ -1,4 +1,4 @@
-def bot():
+def murin():
   print("I'm Gay")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def bot():
   #print(quotes)
 
 if __name__== "__main__":
-  bot()
+  murin()
